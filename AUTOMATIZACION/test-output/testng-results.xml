@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_46.png'> <img src='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_46.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_54.png'> <img src='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_54.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60182" started-at="2018-08-15T17:57:54Z" finished-at="2018-08-15T17:58:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60182" started-at="2018-08-15T17:57:54Z" finished-at="2018-08-15T17:58:54Z">
+      <class name="SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_03_TiendaVerifLoginInvalidDatos">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_03_TiendaVerifLoginInvalidDatos@55d56113]" name="setUP" is-config="true" duration-ms="41938" started-at="2018-08-15T12:57:54Z" finished-at="2018-08-15T12:58:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="test3()[pri:2, instance:SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_03_TiendaVerifLoginInvalidDatos@55d56113]" name="test3" duration-ms="18207" started-at="2018-08-15T12:58:35Z" description="Generación de registro" finished-at="2018-08-15T12:58:54Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_46.png'> <img src='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_46.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_54.png'> <img src='C:\Users\Xia\eclipse-workspace\AUTOMATIZACION\src\main\java\SELENIUM\DEMO\AUTOMATIZACION\SCREENSHOT\test3_15_08_2018_12_58_54.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_03_TiendaVerifLoginInvalidDatos -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,239 @@
+2018-05-25 12:41:06 INFO  TC_01_Validar_Registros:33 - Ingresamos los datos a cada campo
+2018-05-25 12:41:19 INFO  TC_01_Validar_Registros:36 - Realizamos la validacion si el registro fue exitoso
+2018-05-25 12:49:29 INFO  TC_01_Validar_Registros:30 - Inicia verificacion de datos correctos
+2018-05-25 12:49:34 INFO  TC_01_Validar_Registros:34 - Finaliza verificacion de datos correctos
+2018-05-25 12:55:32 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-25 12:55:39 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-25 12:55:39 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-25 12:55:41 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-25 13:08:19 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-25 13:08:19 INFO  TestBase:80 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 13:08:21 INFO  TestBase:83 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 13:08:21 INFO  TestBase:86 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 13:08:24 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-25 13:08:24 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-25 13:08:24 INFO  TestBase:80 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 13:08:25 INFO  TestBase:83 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 13:08:25 INFO  TestBase:86 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (6880720f-22f8-4d6f-bede-49869352700b)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 13:08:27 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-25 18:33:54 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-25 18:33:55 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 18:33:57 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 18:33:57 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 18:34:04 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-25 18:34:04 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-25 18:34:04 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 18:34:06 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 18:34:06 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (cf6b2b20-44a2-483a-84ec-ed4bfdd7f213)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 18:34:20 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-25 18:45:02 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-25 18:45:02 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 18:45:04 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 18:45:06 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 18:45:10 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-25 18:45:10 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-25 18:45:10 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-25 18:45:11 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-25 18:45:11 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (22c878fb-15ab-479f-b04e-f283da41f633)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-25 18:45:12 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 09:59:30 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 09:59:30 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 09:59:32 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 09:59:32 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 09:59:36 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 09:59:36 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 09:59:36 INFO  TestBase:86 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 09:59:37 INFO  TestBase:89 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 09:59:37 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d7b39823-2f9d-4743-808e-2a34685a3a85)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 09:59:38 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 10:36:58 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 10:36:58 INFO  TestBase:89 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 10:36:59 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 10:37:00 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 10:37:03 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 10:37:03 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 10:37:03 INFO  TestBase:89 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 10:37:03 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 10:37:04 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d3daa208-79f0-49e9-b8f4-5f715e36283a)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 10:37:05 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 10:37:05 INFO  TC_01_Validar_Registros:58 - Inicia log
+2018-05-28 10:37:06 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-05-28 10:39:16 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 11:12:33 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 11:12:33 INFO  TestBase:89 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:12:35 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:12:36 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:12:39 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 11:12:39 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 11:12:39 INFO  TestBase:89 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:12:40 INFO  TestBase:92 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:12:40 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (612276e9-1c91-41f5-901d-eb55e8ff3b98)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:12:42 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 11:12:42 INFO  TC_01_Validar_Registros:58 - Inicia log
+2018-05-28 11:12:42 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-05-28 11:20:47 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 11:27:33 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 11:27:33 INFO  TC_02_Validar_Logeo:32 - Finaliza log
+2018-05-28 11:30:15 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 11:35:41 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 11:38:45 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 11:38:45 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:38:48 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:38:49 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:38:53 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 11:38:53 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 11:38:53 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:38:54 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:38:54 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (1867a339-9090-44f4-b32a-ce9655a26005)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:38:55 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 11:38:55 INFO  TC_01_Validar_Registros:58 - Inicia log
+2018-05-28 11:40:29 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 11:40:29 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:40:31 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:40:31 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:40:35 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 11:40:35 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 11:40:35 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 11:40:36 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 11:40:36 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (61dcd9bd-983b-46a9-b6c6-cde409b4a9f6)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 11:40:37 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 11:40:37 INFO  TC_01_Validar_Registros:58 - Inicia log
+2018-05-28 11:40:39 INFO  TC_01_Validar_Registros:63 - Finaliza log
+2018-05-28 11:44:33 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 13:44:31 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 13:49:14 INFO  TC_02_Validar_Logeo:26 - Inicia log
+2018-05-28 15:52:10 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-28 15:52:10 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 15:52:12 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 15:52:12 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 15:52:16 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-28 15:52:16 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-28 15:52:16 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-28 15:52:17 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-28 15:52:17 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (d9761d48-e0a1-4646-8c51-d5417d30cb24)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-28 15:52:18 INFO  TC_01_Validar_Registros:51 - Finaliza verificacion de confirmacion pws
+2018-05-28 15:52:18 INFO  TC_01_Validar_Registros:58 - Inicia log
+2018-05-28 15:52:18 INFO  TC_01_Validar_Registros:63 - Finaliza log
+2018-05-29 17:52:10 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-05-29 17:52:11 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-29 17:52:14 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-29 17:52:14 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-29 17:52:20 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-05-29 17:52:20 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-05-29 17:52:20 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-05-29 17:52:21 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-05-29 17:52:21 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (67519a4f-29a7-4688-a5b9-9089a94cf7ed)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-05-29 17:52:24 INFO  TC_01_Validar_Registros:52 - Finaliza verificacion de confirmacion pws
+2018-05-29 17:52:24 INFO  TC_01_Validar_Registros:59 - Inicia log
+2018-05-29 17:52:24 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-06-01 18:01:40 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-06-01 18:01:40 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-01 18:01:43 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-01 18:01:43 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-01 18:01:49 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-06-01 18:01:49 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-06-01 18:01:49 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-01 18:02:16 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-01 18:02:16 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (2a4cc0d2-0aa2-4617-86dc-d7248541b8eb)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-01 18:02:19 INFO  TC_01_Validar_Registros:52 - Finaliza verificacion de confirmacion pws
+2018-06-01 18:02:19 INFO  TC_01_Validar_Registros:59 - Inicia log
+2018-06-01 18:02:19 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-06-11 09:45:55 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-06-11 09:49:51 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-06-11 09:49:51 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-11 09:49:53 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-11 09:49:53 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-11 09:49:58 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-06-11 09:49:58 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-06-11 09:49:58 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-11 09:49:59 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-11 09:49:59 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (0e87dd53-5246-45a2-96e2-182860048b5f)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-11 09:50:01 INFO  TC_01_Validar_Registros:52 - Finaliza verificacion de confirmacion pws
+2018-06-11 09:50:01 INFO  TC_01_Validar_Registros:59 - Inicia log
+2018-06-11 09:50:01 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-06-27 18:05:53 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-27 18:12:18 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 15:18:57 INFO  TC_03_TiendaVerifLoginInvalidDatos:26 - Inicia verificacion de datos correctos
+2018-06-28 15:25:21 INFO  TC_01_Validar_Registros:31 - Inicia verificacion de datos correctos
+2018-06-28 15:25:21 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-28 15:25:23 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-28 15:25:23 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-28 15:25:28 INFO  TC_01_Validar_Registros:38 - Finaliza verificacion de datos correctos
+2018-06-28 15:25:28 INFO  TC_01_Validar_Registros:45 - Inicia verificacion de confirmacion pws
+2018-06-28 15:25:28 INFO  TestBase:92 - Damos click en el menu Registro: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[2]/td/table/tbody/tr/td[2]/a]
+2018-06-28 15:25:29 INFO  TestBase:95 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[2]/td[2]/input]
+2018-06-28 15:25:29 INFO  TestBase:98 - Seleccionamos el campo nombre: [[FirefoxDriver: firefox on ANY (ce6b4ab2-44a2-4efa-9513-ba16adbe916d)] -> xpath: html/body/div[2]/table/tbody/tr/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td[2]/table/tbody/tr[5]/td/form/table/tbody/tr[3]/td[2]/input]
+2018-06-28 15:25:31 INFO  TC_01_Validar_Registros:52 - Finaliza verificacion de confirmacion pws
+2018-06-28 15:25:31 INFO  TC_01_Validar_Registros:59 - Inicia log
+2018-06-28 15:25:31 INFO  TC_01_Validar_Registros:64 - Finaliza log
+2018-06-28 15:51:44 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 18:06:28 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 18:17:10 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 18:41:53 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 18:48:47 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 18:53:55 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 19:06:49 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-28 19:12:36 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-29 13:59:04 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-29 14:27:51 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia verificacion de datos correctos
+2018-06-29 14:34:04 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia ingreso de datos correctos
+2018-06-29 14:42:41 INFO  TC_03_TiendaVerifLoginInvalidDatos:27 - Inicia ingreso de datos correctos
+2018-06-29 16:11:03 INFO  TC_03_TiendaVerifLoginInvalidDatos:28 - Inicia ingreso de datos correctos
+2018-06-29 16:12:37 INFO  TC_03_TiendaVerifLoginInvalidDatos:28 - Inicia ingreso de datos correctos
+2018-06-29 16:14:00 INFO  TC_03_TiendaVerifLoginInvalidDatos:28 - Inicia ingreso de datos correctos
+2018-06-29 16:14:46 INFO  TC_03_TiendaVerifLoginInvalidDatos:43 - Ingresamos email registrado previamente
+2018-07-10 13:26:58 INFO  TC_03_TiendaVerifLoginInvalidDatos:28 - Inicia ingreso de datos correctos
+2018-07-10 13:27:46 INFO  TC_03_TiendaVerifLoginInvalidDatos:43 - Ingresamos email registrado previamente
+2018-07-13 14:49:01 INFO  TC_03_TiendaVerifLoginInvalidDatos:28 - Inicia ingreso de datos correctos
+2018-07-13 14:49:46 INFO  TC_03_TiendaVerifLoginInvalidDatos:43 - Ingresamos email registrado previamente
+2018-07-16 10:11:32 INFO  TC_03_TiendaVerifLoginInvalidDatos:57 - Menú Womwn
+2018-07-16 11:27:42 INFO  TC_03_TiendaVerifLoginInvalidDatos:57 - Menú Women
+2018-07-16 11:33:23 INFO  TC_03_TiendaVerifLoginInvalidDatos:57 - Menú Women
+2018-07-16 11:58:08 INFO  TC_03_TiendaVerifLoginInvalidDatos:59 - Menú Dresses antes
+2018-07-16 12:11:08 INFO  TC_03_TiendaVerifLoginInvalidDatos:59 - Menú Dresses antes
+2018-07-16 17:11:55 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-16 17:12:04 INFO  TC_03_TiendaVerifLoginInvalidDatos:63 - Menú Dresses después
+2018-07-16 17:14:19 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-16 17:19:22 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-16 17:19:31 INFO  TC_03_TiendaVerifLoginInvalidDatos:63 - Menú Dresses después
+2018-07-16 17:27:22 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-16 17:27:37 INFO  TC_03_TiendaVerifLoginInvalidDatos:63 - Menú Dresses después
+2018-07-16 17:29:18 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-16 17:29:25 INFO  TC_03_TiendaVerifLoginInvalidDatos:63 - Menú Dresses después
+2018-07-17 09:37:02 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 09:37:13 INFO  TC_03_TiendaVerifLoginInvalidDatos:63 - Menú Dresses después
+2018-07-17 09:39:27 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 09:43:04 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 10:04:13 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 10:13:00 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 10:19:52 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 10:22:43 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 10:36:35 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:24:45 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:26:20 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:31:52 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:37:30 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:38:57 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-17 21:39:09 INFO  TC_03_TiendaVerifLoginInvalidDatos:65 - Menú Dresses después
+2018-07-17 21:41:21 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-18 18:29:46 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-18 20:42:02 INFO  TC_03_TiendaVerifLoginInvalidDatos:61 - Menú Dresses antes
+2018-07-18 20:42:05 INFO  TC_03_TiendaVerifLoginInvalidDatos:65 - Menú Dresses después
+2018-07-24 13:30:05 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-07-24 13:30:47 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-07-24 15:23:19 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-07-24 15:24:00 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-07-24 16:06:50 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-07-24 16:07:30 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-08-10 11:25:27 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-10 11:26:09 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-08-10 20:46:53 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-10 20:47:41 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-08-15 09:54:03 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-15 09:54:41 INFO  TC_03_TiendaVerifLoginInvalidDatos:86 - Ingresamos email registrado previamente
+2018-08-15 12:45:55 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-15 12:46:36 INFO  TC_03_TiendaVerifLoginInvalidDatos:89 - Ingresamos email registrado previamente
+2018-08-15 12:48:27 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-15 12:49:18 INFO  TC_03_TiendaVerifLoginInvalidDatos:89 - Ingresamos email registrado previamente
+2018-08-15 12:56:23 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos
+2018-08-15 12:58:36 INFO  TC_03_TiendaVerifLoginInvalidDatos:71 - Inicia ingreso de datos correctos

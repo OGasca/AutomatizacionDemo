@@ -1,0 +1,7 @@
+
+
+//Ingreso la url a probar y el explorador que se utilizara.
+url=http://automationpractice.com/
+//url = http://demo.guru99.com/test/newtours/
+//browser=chrome
+browser=firefox

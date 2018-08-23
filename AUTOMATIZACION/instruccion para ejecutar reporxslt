@@ -1,0 +1,7 @@
+
+Para obtener el reporte después de realizar la ejecución hay que abrir un cmd y ir a la siguiente 
+ruta 
+
+cd C:/Users/Xia/eclipse-workspace/AUTOMATIZACION>
+
+ya estando dentro de la ruta ejecutar el comando (ant generateReport)

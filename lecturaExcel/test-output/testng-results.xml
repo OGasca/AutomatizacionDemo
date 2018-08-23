@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="5" failed="0" ignored="0" total="7" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34511" started-at="2018-05-28T21:50:33Z" finished-at="2018-05-28T21:51:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34511" started-at="2018-05-28T21:50:33Z" finished-at="2018-05-28T21:51:07Z">
+      <class name="SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider">
+        <test-method status="PASS" signature="init()[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="init" is-config="true" duration-ms="26062" started-at="2018-05-28T21:50:33Z" finished-at="2018-05-28T21:50:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="5367" started-at="2018-05-28T21:51:00Z" data-provider="userData" finished-at="2018-05-28T21:51:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dos]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel2]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email2@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc2]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city2]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state2]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp2]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email2@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email2]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="PASS" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="1660" started-at="2018-05-28T21:51:05Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tres]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel3]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email3@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city3]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state3]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp3]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email3@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email3]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email3]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="SKIP" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="5" started-at="2018-05-28T21:51:07Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cuatro]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido4]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel4]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email4@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc4]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city4]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state4]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp4]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email4@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email4]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email4]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[ESTE TEST NO SE EJECUTA]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: ESTE TEST NO SE EJECUTA
+at SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider.fillUserForm(ExcelToDataProvider.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="SKIP" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="2" started-at="2018-05-28T21:51:07Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cinco]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido5]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel5]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email5@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc5]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city5]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state5]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp5]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email5@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email5]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email5]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[ESTE TEST NO SE EJECUTA]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: ESTE TEST NO SE EJECUTA
+at SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider.fillUserForm(ExcelToDataProvider.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="SKIP" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="1" started-at="2018-05-28T21:51:07Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Seis]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido6]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel6]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email6@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc6]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city6]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state6]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp6]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email6@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email6]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email6]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[ESTE TEST NO SE EJECUTA]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: ESTE TEST NO SE EJECUTA
+at SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider.fillUserForm(ExcelToDataProvider.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="SKIP" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="1" started-at="2018-05-28T21:51:07Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Siete]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel7]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email6@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc7]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city7]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state7]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp7]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email7@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email7]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email7]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[ESTE TEST NO SE EJECUTA]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: ESTE TEST NO SE EJECUTA
+at SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider.fillUserForm(ExcelToDataProvider.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+        <test-method status="SKIP" signature="fillUserForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider@28ac3dc3]" name="fillUserForm" duration-ms="1" started-at="2018-05-28T21:51:07Z" data-provider="userData" finished-at="2018-05-28T21:51:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ocho]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Apellido8]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Tel8]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[email8@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[direc8]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city8]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[state8]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[cp8]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[THAILAND]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[email8@gmail.com]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[email8]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[email8]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.testng.SkipException">
+            <message>
+              <![CDATA[ESTE TEST NO SE EJECUTA]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.SkipException: ESTE TEST NO SE EJECUTA
+at SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider.fillUserForm(ExcelToDataProvider.java:36)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:580)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:716)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:988)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.SkipException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fillUserForm -->
+      </class> <!-- SELENIUM.DEMO.lecturaExcel.ExcelToDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

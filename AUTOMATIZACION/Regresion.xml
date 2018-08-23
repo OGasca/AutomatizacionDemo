@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "Suite Regresion">
+
+<test  name = "TC_02_Logeo">
+<classes> 
+<class name = "SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_02_Logeo"> </class>
+</classes> 
+</test>
+
+<test  name = "TC_01_Validar_Registros">
+<classes> 
+<class name = "SELENIUM.DEMO.AUTOMATIZACION.REGISTRO.TC_01_Validar_Registros"> </class>
+</classes> 
+</test>
+
+</suite>
+
